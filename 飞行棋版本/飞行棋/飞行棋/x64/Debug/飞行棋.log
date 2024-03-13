@@ -1,0 +1,20 @@
+﻿  飞行棋.cpp
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(276,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(277,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(278,62): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(279,69): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(281,39): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(284,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(285,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(328,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(813,77): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(813,69): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(813,66): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(863,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(863,34): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(877,7): warning C4101: “pre”: 未引用的局部变量
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(1073,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(1378,77): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(1378,69): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\luoxinyang\Desktop\期末项目\飞行棋\飞行棋\飞行棋.cpp(1378,66): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  飞行棋.vcxproj -> C:\Users\luoxinyang\Desktop\期末项目\飞行棋\x64\Debug\飞行棋.exe
